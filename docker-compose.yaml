@@ -1,0 +1,9 @@
+services:
+  agentic:
+    build:
+      context: ./src
+      dockerfile: Dockerfile
+    container_name: agentic
+    ports:
+      - "8888:8888"
+      

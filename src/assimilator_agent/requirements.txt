@@ -1,0 +1,13 @@
+llama-index
+llama-index-embeddings-ollama
+llama-index-llms-openai
+llama-index-llms-ollama
+llama-index-readers-wikipedia
+llama-index-agent-llm-compiler
+llama-index-readers-smart-pdf-loader
+wikipedia
+llmsherpa
+python-dotenv
+fastapi
+python-multipart
+uvicorn
